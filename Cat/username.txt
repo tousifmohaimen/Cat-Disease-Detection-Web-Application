@@ -1,0 +1,11 @@
+Pasien
+Username = tanvir
+Password = tanvir12345
+
+Pakar
+Username = tousif
+Password = tousif12345
+
+Admin
+Username = admin
+Password = admin12345
